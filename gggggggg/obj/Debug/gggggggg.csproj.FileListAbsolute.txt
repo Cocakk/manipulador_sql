@@ -1,0 +1,48 @@
+C:\Users\pemir\source\repos\gggggggg\gggggggg\bin\Debug\gggggggg.exe.config
+C:\Users\pemir\source\repos\gggggggg\gggggggg\bin\Debug\gggggggg.exe
+C:\Users\pemir\source\repos\gggggggg\gggggggg\bin\Debug\gggggggg.pdb
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.AssemblyReference.cache
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.Form1.resources
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.Properties.Resources.resources
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.GenerateResource.cache
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.CoreCompileInputs.cache
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.exe
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.pdb
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.Form2.resources
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.Form3.resources
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.Form4.resources
+C:\Users\pemir\source\repos\gggggggg\gggggggg\obj\Debug\gggggggg.Form5.resources
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\gggggggg.exe.config
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\gggggggg.exe
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\gggggggg.pdb
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\EntityFramework.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\EntityFramework.SqlServer.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\linq2db.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Data.SQLite.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\EntityFramework.xml
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\EntityFramework.SqlServer.xml
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\linq2db.xml
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Data.SQLite.xml
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.AssemblyReference.cache
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.SuggestedBindingRedirects.cache
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.Form1.resources
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.Form2.resources
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.Form3.resources
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.Form4.resources
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.Form5.resources
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.Properties.Resources.resources
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.GenerateResource.cache
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.CoreCompileInputs.cache
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.csproj.CopyComplete
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.exe
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\obj\Debug\gggggggg.pdb
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\x86\sqlite3.dll
+D:\Os Meus Documentos\Nova pasta (3)\gggggggg\gggggggg\bin\Debug\x64\sqlite3.dll
